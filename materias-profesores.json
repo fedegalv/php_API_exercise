@@ -1,0 +1,17 @@
+[
+    {
+        "legajoProfesor": "3",
+        "idMateria": "2",
+        "turno": "Noche"
+    },
+    {
+        "legajoProfesor": "1",
+        "idMateria": "2",
+        "turno": "Noche"
+    },
+    {
+        "legajoProfesor": "4",
+        "idMateria": "1",
+        "turno": "Noche"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "email": "fede@gmail.com",
+        "clave": "12345"
+    },
+    {
+        "email": "testing@gmail.com",
+        "clave": "123"
+    },
+    {
+        "email": "nuevomail@gmail.com",
+        "clave": "1221"
+    }
+]

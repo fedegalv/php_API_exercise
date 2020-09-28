@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Matematica",
+        "cuatrimestre": "2",
+        "id": 1
+    },
+    {
+        "nombre": "Lengua",
+        "cuatrimestre": "4",
+        "id": 2
+    },
+    {
+        "nombre": "Politica",
+        "cuatrimestre": "2",
+        "id": 3
+    },
+    {
+        "nombre": "Naturales",
+        "cuatrimestre": "1",
+        "id": 4
+    }
+]
